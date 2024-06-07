@@ -12,31 +12,30 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.ownernomer = "94773010580"
-global.ownername = "Fenix"
-global.ytname = "YT: Fenix_Programmer "
-global.socialm = "GitHub: Fenix-server"
+global.ownernomer = "94765749332"
+global.ownername = "shanu"
+global.ytname = "YT: shanu_Programmer "
+global.socialm = "GitHub: shanu-server"
 global.location = "srilanka, colombo, colombo"
 
-global.ownernumber = '94773010580'  //creator number
-global.ownername = 'FENIX' //owner name
-global.botname = 'FENIX ID V17' //name of the bot
-
+global.ownernumber = '94765749332'  //creator number
+global.ownername = 'shanu' //owner name
+global.botname = 'SHANU ID V17' //name of the bo
 global.packname = 'V17'
 global.author = 'ꜰᴇɴɪx ɪᴅ ꜱᴇʀᴠᴇʀ : 🌍'
 
 global.themeemoji = '🪀'
 global.wm = "Its Fuck.inc."
 
-global.link = 'https://whatsapp.com/channel/0029VaV2xYy72WTw8ERfJE2w'
+global.link = 'https://wa.me/qr/2QCHPPVRZTINP1'
 
 
 global.prefa = ['','!','.','#','&']
 
-global.autoRecording = false 
-global.autoTyping = false 
+global.autoRecording = true 
+global.autoTyping = true 
 global.autorecordtype = true
-global.autoread = false 
+global.autoread = true 
 global.autobio = false 
 global.anti92 = false 
 global.autoswview = true
